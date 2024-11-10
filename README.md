@@ -6,7 +6,7 @@ earning points.
 
 ![Simulator Screenshot - iPad (10th generation) - 2024-06-18 at 20 13 32](https://github.com/user-attachments/assets/0d312e61-3153-405a-a7db-f3d06dc6852c)
 Welcome View
-<br/>
+<br/> <br/> <br/>
 
 ![Simulator Screenshot - iPad (10th generation) - 2024-06-18 at 20 14 03](https://github.com/user-attachments/assets/9e7eacc8-fd36-4f4a-abfd-b9233923df1f)
 Settings View
