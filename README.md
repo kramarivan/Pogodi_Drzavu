@@ -1,8 +1,17 @@
 # Pogodi_Drzavu
 
-The „Pogodi državu” application uses a split screen method, allowing
-2 to 4 players to compete in recognizing randomly selected countries on the map and
-earning points.
+The "Guess the Country" app is designed for iPad to provide an interactive, fun way to learn geography. It challenges players to identify countries by their borders displayed on a map, aiming to enhance users' geographic knowledge through gameplay. The app supports multiplayer mode for 2-4 players, who compete by answering quickly and accurately to score points. Points are awarded based on response speed—5 points for the fastest, down to 1 point for the slowest correct response, with incorrect answers earning zero points.
+
+Users can customize the game by selecting continents (e.g., Europe, Asia), the number of rounds (3, 5, 7, or 10), and round duration (5, 10, or 15 seconds). Country boundary data is stored on Firebase, which also saves player scores after each game for progress tracking and performance analysis.
+
+The app uses several classes to manage different functions:
+
+**QuestionAnswerGenerator** selects a country and generates multiple-choice options for each question.
+**MapViewModel** loads and displays geoJSON data on the map.
+**QuizViewModel** handles game dynamics, such as round progression, score tracking, and time limits.
+**SettingsViewModel** allows players to customize game settings, like adding players and game options.
+**WelcomeViewModel** displays the introductory screen with a brief delay.
+**ResultsViewModel** enhances the competitive experience by displaying player scores in a ranked leaderboard format.
 
 ![Simulator Screenshot - iPad (10th generation) - 2024-06-18 at 20 13 32](https://github.com/user-attachments/assets/0d312e61-3153-405a-a7db-f3d06dc6852c)
 Welcome View
