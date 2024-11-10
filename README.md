@@ -1,8 +1,8 @@
 # Pogodi_Drzavu
 
-The "Guess the Country" app is designed for iPad to provide an interactive, fun way to learn geography. It challenges players to identify countries by their borders displayed on a map, aiming to enhance users' geographic knowledge through gameplay. The app supports multiplayer mode for 2-4 players, who compete by answering quickly and accurately to score points. Points are awarded based on response speed—5 points for the fastest, down to 1 point for the slowest correct response, with incorrect answers earning zero points.
+The "Pogodi Državu" app is designed for iPad to provide an interactive, fun way to learn geography. It challenges players to identify countries by their borders displayed on a map, aiming to enhance users' geographic knowledge through gameplay. The app supports multiplayer mode for 2-4 players, who compete by answering quickly and accurately to score points. Points are awarded based on response speed—5 points for the fastest, down to 1 point for the slowest correct response, with incorrect answers earning zero points.
 
-Users can customize the game by selecting continents (e.g., Europe, Asia), the number of rounds (3, 5, 7, or 10), and round duration (5, 10, or 15 seconds). Country boundary data is stored on Firebase, which also saves player scores after each game for progress tracking and performance analysis.
+Users can customize the game by selecting continents (e.g., Europe, Asia), the number of rounds (3, 5, 7, or 10), and round duration (5, 10, or 15 seconds). Country boundary data is stored on Firebase, which also saves player scores after each game for progress tracking and performance analysis. Google Maps SDK is used for displaying data/countries on the map.
 
 The app uses several classes to manage different functions:
 
