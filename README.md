@@ -6,12 +6,12 @@ Users can customize the game by selecting continents (e.g., Europe, Asia), the n
 
 The app uses several classes to manage different functions:
 
-**QuestionAnswerGenerator** selects a country and generates multiple-choice options for each question.
-**MapViewModel** loads and displays geoJSON data on the map.
-**QuizViewModel** handles game dynamics, such as round progression, score tracking, and time limits.
-**SettingsViewModel** allows players to customize game settings, like adding players and game options.
-**WelcomeViewModel** displays the introductory screen with a brief delay.
-**ResultsViewModel** enhances the competitive experience by displaying player scores in a ranked leaderboard format.
+**QuestionAnswerGenerator** selects a country and generates multiple-choice options for each question. <br/>
+**MapViewModel** loads and displays geoJSON data on the map. <br/>
+**QuizViewModel** handles game dynamics, such as round progression, score tracking, and time limits. <br/>
+**SettingsViewModel** allows players to customize game settings, like adding players and game options. <br/>
+**WelcomeViewModel** displays the introductory screen with a brief delay. <br/>
+**ResultsViewModel** enhances the competitive experience by displaying player scores in a ranked leaderboard format. <br/>
 
 ![Simulator Screenshot - iPad (10th generation) - 2024-06-18 at 20 13 32](https://github.com/user-attachments/assets/0d312e61-3153-405a-a7db-f3d06dc6852c)
 Welcome View
