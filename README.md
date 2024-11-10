@@ -17,11 +17,11 @@ Map View - Selected country
 <br/> <br/> <br/>
 
 ![Simulator Screenshot - iPad (10th generation) - 2024-06-18 at 20 18 28](https://github.com/user-attachments/assets/696da9c0-b3d5-4a4c-a202-233d19cd09dd)
-Qiuz View - Selected Answers - 4 Players
+Qiuz View - Selecting answers - 4 Players
 <br/> <br/> <br/>
 
 ![Simulator Screenshot - iPad (10th generation) - 2024-06-18 at 20 18 50](https://github.com/user-attachments/assets/22a4f11a-8e8b-4fdd-917f-4ba2fc7eface)
-Quiz View - Correct/Uncorrect Answers - 4 Players
+Quiz View - Correct/Uncorrect answers and points - 4 Players
 <br/> <br/> <br/>
 
 ![Simulator Screenshot - iPad (10th generation) - 2024-06-18 at 20 23 28](https://github.com/user-attachments/assets/23862f7c-fc79-40ca-8594-866d9a4fc8ae)
